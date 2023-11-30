@@ -1,3 +1,4 @@
-session_24
+session_25
 
 Create Issue Editor - React SimpleMDE (EasyMDE) Markdown Editor
+React loading skeleton - React Content Loader
